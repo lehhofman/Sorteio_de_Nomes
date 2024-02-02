@@ -17,5 +17,11 @@
 - **3.** Acesse a pasta **front** e execute o index.html via Live Server.
 
 # Prints das Telas
-![Tela01](./Telas/tela1)
-![Tela01](./Telas/tela2)
+
+## Tela inicial:
+
+![Tela01](./Telas/tela1.jpeg)
+
+## Tela resultado:
+
+![Tela01](./Telas/tela2.jpeg)
