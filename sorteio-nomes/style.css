@@ -1,0 +1,77 @@
+main {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: cadetblue;
+
+  }
+
+h1{
+
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bolder;
+
+}
+
+p{
+
+    color: white;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+body{
+
+    background-color: rgb(2, 80, 153);
+
+}
+
+  #container {
+
+    display: flex;
+    align-items: center;
+
+  }
+
+  #canvas {
+
+    width: 600px;
+    height: 600px;
+    margin-right: 20px;
+
+  }
+
+  #namesInput {
+
+    width: 300px;
+    height: 300px;
+    resize: none;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 20px;
+    text-align: center;
+    background-color: rgb(187, 203, 217);
+    color:  rgb(2, 80, 153);
+
+  }
+
+  #spin {
+
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    margin-left: 30px;
+    border-radius: 30px;
+    background-color: rgb(2, 80, 153);
+    color: aliceblue;
+
+  }
